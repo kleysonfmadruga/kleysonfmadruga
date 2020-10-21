@@ -1,5 +1,4 @@
-### Hello world, I'm Kleyson Madruga 👋
+### Olá mundo, eu sou Kleyson Madruga 👋
 
-- 🌱 I’m currently learning Computing
-- 🏫 Studying at IFRN - _Campus_ Nova Cruz
-- 💻 I like web technologies
+- 🏫 Estudando no IFRN - _Campus_ Nova Cruz
+- 💻 Gosto de tecnologias web
