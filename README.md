@@ -1,16 +1,16 @@
-# Olá mundo, eu sou Kleyson Madruga 👋 #
+# Hello world, I'm Kleyson Madruga 👋 #
 
-## Sobre mim ##
+## About ##
 
-- 🏫 Estudando no IFRN - _Campus_ Nova Cruz
-- 💻 Trabalhando com tecnologias web
-- 🤓 Curioso e apaixonado pelo aprendizado
-- 👾 Em busca de novas tecnologias
+- 🏫 Studying at IFRN - _Campus_ Nova Cruz
+- 💻 Working with web technologies
+- 🤓 Curious and passionated about learning
+- 👾 In search of new technologies
 
 <br />
 
-## Minha stack de desenvolvimento ##
-> ### Linguagens ###
+## My development stack ##
+> ### Languages ###
 > **Web:**
 > <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 > <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -36,12 +36,12 @@
 
 <br />
 
-> ### Bancos de dados ###
+> ### Databases ###
 > <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <br />  
 
-> ### Contato ###
+> ### Contact ###
 > <a target="_blank" href="https://www.linkedin.com/in/kleyson-madruga/">
 >  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 > </a>
