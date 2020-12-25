@@ -1,5 +1,8 @@
 # Hello world, I'm Kleyson Madruga 👋 #
 
+[![Linkedin Badge](https://img.shields.io/badge/-Kleyson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyson-madruga)](https://www.linkedin.com/in/kleyson-madruga/)
+[![Gmail Badge](https://img.shields.io/badge/-kleysonfmadruga26@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kleysonfmadruga26@gmail.com)](mailto:kleysonfmadruga26@gmail.com)
+
 ## About ##
 
 - 🏫 Studying at IFRN - _Campus_ Nova Cruz
@@ -38,19 +41,6 @@
 
 > ### Databases ###
 > <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<br />  
-
-> ### Contact ###
-> <a target="_blank" href="https://www.linkedin.com/in/kleyson-madruga/">
->  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-> </a>
-> <a target="_blank" href="mailto:kleysonfmadruga26@gmail.com">
->  <img align="left" alt="Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-> </a>
-> <a target="_blank" href="https://www.instagram.com/kleyson_fm/">
->  <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-> </a>
 
 <br />
 <br />
