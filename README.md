@@ -5,7 +5,7 @@
 
 ## About ##
 
-- 🏫 Studying at IFRN - _Campus_ Nova Cruz
+- 👨‍💻 Computer Technician by IFRN - _Campus_ Nova Cruz
 - 💻 Working with web technologies
 - 🤓 Curious and passionated about learning
 - 👾 In search of new technologies
