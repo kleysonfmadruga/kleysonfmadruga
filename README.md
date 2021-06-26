@@ -6,6 +6,7 @@
 ## About ##
 
 - 👨‍💻 Computer Technician by IFRN - _Campus_ Nova Cruz
+- 🎓 Graduating in Information Systems by UFPB - _Campus_ IV
 - 💻 Working with web technologies
 - 🤓 Curious and passionated about learning
 - 👾 In search of new technologies
