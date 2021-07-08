@@ -1,7 +1,7 @@
 # Hello world, I'm Kleyson Madruga 👋 #
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kleyson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyson-madruga)](https://www.linkedin.com/in/kleyson-madruga/)
-[![Gmail Badge](https://img.shields.io/badge/-kleysonfmadruga26@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kleysonfmadruga26@gmail.com)](mailto:kleysonfmadruga26@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/kleyson%20madruga-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleyson-madruga/)
+[![Gmail Badge](https://img.shields.io/badge/kleysonfmadruga26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleysonfmadruga26@gmail.com)
 
 ## About me ##
 
