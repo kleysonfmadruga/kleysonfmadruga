@@ -43,5 +43,4 @@
 
 <br />
 <br />
-![Kleyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleysonfmadruga&show_icons=true&layout=compact)  
-![Kleyson's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleysonfmadruga&layout=compact&langs_count=10)
+![Kleyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleysonfmadruga&show_icons=true&layout=compact)
