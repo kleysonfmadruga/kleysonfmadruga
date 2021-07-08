@@ -3,13 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kleyson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyson-madruga)](https://www.linkedin.com/in/kleyson-madruga/)
 [![Gmail Badge](https://img.shields.io/badge/-kleysonfmadruga26@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kleysonfmadruga26@gmail.com)](mailto:kleysonfmadruga26@gmail.com)
 
-## About ##
+## About me ##
 
 - 👨‍💻 Computer Technician by IFRN - _Campus_ Nova Cruz
 - 🎓 Graduating in Information Systems by UFPB - _Campus_ IV
-- 💻 Working with web technologies
+- 💻 Working with back-end
 - 🤓 Curious and passionated about learning
-- 👾 In search of new technologies
 
 <br />
 
