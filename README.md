@@ -13,8 +13,8 @@
 
 <br />
 
-## My development stack ##
-> ### Languages ###
+## My development stack
+> ### Languages 
 > **Web:**
 > <code><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
 > <code><img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></code>
@@ -31,17 +31,17 @@
 
 <br />
 
-> ### Frameworks ###
+> ### Frameworks
 > **Web:**
 > <code><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></code>
 
 <br />
 
-> ### Databases ###
+> ### Databases
 > <code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 > <code><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
 
 <br />
 <br />
-
-![Kleyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleysonfmadruga&show_icons=true)
+![Kleyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleysonfmadruga&show_icons=true&layout=compact)  
+![Kleyson's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleysonfmadruga&layout=compact&langs_count=10)
