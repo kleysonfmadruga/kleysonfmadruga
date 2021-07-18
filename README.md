@@ -7,7 +7,7 @@
 
 - 👨‍💻 Computer Technician by IFRN - _Campus_ Nova Cruz
 - 🎓 Graduating in Information Systems by UFPB - _Campus_ IV
-- 💻 Working with back-end
+- 💻 Currently working with Elixir back-end applicatons
 - 🤓 Curious and passionated about learning
 
 <br />
