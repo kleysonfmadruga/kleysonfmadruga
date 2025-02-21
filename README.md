@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/kleyson%20madruga-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleyson-madruga/)
 [![Gmail Badge](https://img.shields.io/badge/kleysonfmadruga26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleysonfmadruga26@gmail.com)
 
-## About me ##
+## Sobre mim ##
 
 - 👨‍💻 Técnico em Informática pelo IFRN - _Campus_ Nova Cruz
 - 🎓 Analista de Sistemas pela UNIESP
@@ -12,8 +12,8 @@
 
 <br />
 
-## My development stack ##
-### Languages ###
+## Minha stack ##
+### Linguagens ###
 > **Web:**
 > <code><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
 > <code><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></code>
@@ -33,7 +33,7 @@
 > **Mobile:**
 > <code><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 
-### Databases ###
+### Bancos de Dados ###
 > <code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 > <code><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
 
